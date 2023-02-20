@@ -1,0 +1,9 @@
+use SuperheroesDb
+
+INSERT INTO Superhero (Name,Alias,Origin) VALUES ('Superman', 'Clark Kent', 'Superman´s origin story begins on the planet Krypton, where he was born as Kal-El. His father, Jor-El, was a brilliant scientist who predicted that Krypton would soon be destroyed by an explosion. In an effort to save his son´s life, Jor-El launched Kal-El in a spaceship to Earth, where he would be discovered and adopted by the Kents, a kind and loving couple living on a farm in Smallville, Kansas.
+
+As he grew up, Kal-El discovered that he had incredible powers due to his alien physiology and the effect of Earth´s yellow sun. He decided to use his powers for good, and adopted the secret identity of Clark Kent, a mild-mannered reporter for the Daily Planet newspaper. As Superman, he fights for truth, justice, and the American way, protecting the citizens of Metropolis and the world from a wide range of threats, from common criminals to powerful supervillains and even intergalactic invaders.');
+
+INSERT INTO Superhero (Name,Alias,Origin) VALUES ('Batman', 'Bruce Wayne', 'As a child, Bruce Wayne witnessed his parents being murdered in a robbery gone wrong, leaving him traumatized and alone. Determined to prevent others from suffering the same fate, Bruce vowed to rid Gotham City of crime and corruption. He trained himself to the peak of human physical and mental ability, and then created the persona of Batman, a masked vigilante who fights crime using his intellect, physical prowess, and an array of gadgets and vehicles.');
+
+INSERT INTO Superhero (Name,Alias,Origin) VALUES ('Flash', 'Barry Allen', 'Barry was a forensic scientist working for the Central City police department. One night, while working late in his lab, a bolt of lightning struck a nearby shelf of chemicals, causing them to spill all over him. The combination of the lightning and chemicals gave Barry the power of superhuman speed, and he became the fastest man alive.');
