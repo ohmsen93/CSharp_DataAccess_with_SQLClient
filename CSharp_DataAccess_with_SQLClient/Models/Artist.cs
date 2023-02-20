@@ -1,0 +1,8 @@
+﻿namespace CSharp_DataAccess_with_SQLClient.Models;
+
+public class Artist
+{
+    public int ArtistId { get; set; }
+
+    public string Name { get; set; }
+}
